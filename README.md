@@ -1,1 +1,2 @@
 # Real-Time-Tomato-Detection
+This study proposes a sustainable image processing technique that uses the Hue, Saturation and Lighting value color space to detect ripe tomatoes in the plant in real-time. To accomplish precise and efficient identification, several machine-learning techniques were tested. The trials were carried out utilizing a large collection of images captured under various lighting and environmental circumstances. The major goal was to find the algorithm that could recognize ripe tomatoes with the greatest accuracy. 
